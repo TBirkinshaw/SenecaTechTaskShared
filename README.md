@@ -1,5 +1,9 @@
 # Seneca Tech Task - Question Toggles
 
+## Runnable Version
+
+I have deployed a version of this component to GitHub pages at https://tbirkinshaw.github.io/SenecaPlayground/
+
 ## Core Requirements
 
 1. TypeChecking - Using TypeScript
