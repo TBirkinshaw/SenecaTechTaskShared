@@ -1,0 +1,103 @@
+{
+  "questions":[
+    {
+      "questionText": "An animal cell contains: ",
+      "correctAnswers": 
+        [
+          "Ribosomes", 
+          "Cytoplasm", 
+          "Partially Permeable Membrane", 
+          "Mitochondria"
+        ],
+      "incorrectAnswers":
+        [
+          "Cell wall",
+          "Chloroplast",
+          "Impermeable membrane",
+          "Cellulose"
+        ]
+    },
+    {
+      "questionText": "What are the ideal conditions inside an office?",
+      "correctAnswers": 
+        [
+          "Good pay", 
+          "Less meetings", 
+          "Free coffee", 
+          "Dog in office"
+        ],
+      "incorrectAnswers":
+        [
+          "Bad pay",
+          "More meetings",
+          "Expensive coffee",
+          "Bear in office"
+        ]
+    },
+    {
+      "questionText": "What makes this question awkward?",
+      "correctAnswers": 
+        [
+          "Long correct answers solely designed for the purpose of testing that it doesn't overflow", 
+          "Only three parts", 
+          "Many possible wrong answers"
+        ],
+      "incorrectAnswers":
+        [
+          "Mauvaise réponse",
+          "Falsche Antwort",
+          "Wrong Answer",
+          "間違った答え",
+          "Respuesta incorrecta"
+        ]
+    },
+    {
+      "questionText": "Why is this question special?",
+      "correctAnswers": 
+        [
+          "Only one answer"
+        ],
+      "incorrectAnswers":
+        [
+          "Fifty answers",
+          "Sixty answers"
+        ]
+    },
+    {
+      "questionText": "Which of these players has won the premier league?",
+      "correctAnswers": 
+        [
+          "Igor Stepanovs", 
+          "Luke Chadwick"
+        ],
+      "incorrectAnswers":
+        [
+          "Steven Gerrard",
+          "Harry Kane",
+          "Romelu Lukaku",
+          "Son Heung-min",
+          "Gareth Bale",
+          "Hugo Lloris"
+        ]
+    },
+    {
+      "questionText": "Which of these numbers are prime?",
+      "correctAnswers": 
+        [
+          "3", 
+          "17",
+          "29",
+          "37"
+        ],
+      "incorrectAnswers":
+        [
+          "6",
+          "15",
+          "27",
+          "39",
+          "45",
+          "58"
+        ]
+    }
+  ]
+}

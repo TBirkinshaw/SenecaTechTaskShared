@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SenecaPlayground/static/css/main.71acf1b3.css",
+    "main.js": "/SenecaPlayground/static/js/main.0388e555.js",
+    "static/js/787.e7d5244b.chunk.js": "/SenecaPlayground/static/js/787.e7d5244b.chunk.js",
+    "index.html": "/SenecaPlayground/index.html",
+    "main.71acf1b3.css.map": "/SenecaPlayground/static/css/main.71acf1b3.css.map",
+    "main.0388e555.js.map": "/SenecaPlayground/static/js/main.0388e555.js.map",
+    "787.e7d5244b.chunk.js.map": "/SenecaPlayground/static/js/787.e7d5244b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71acf1b3.css",
+    "static/js/main.0388e555.js"
+  ]
+}
